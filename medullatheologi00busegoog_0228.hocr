@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./medullatheologi00busegoog_0228.png"; bbox 0 0 2184 3592; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 299 179 1493 1311">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 299 179 1493 1311">
+     <span class='ocr_line' id='line_1_1' title="bbox 299 179 1493 1311; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 299 179 1493 1311; x_wconf 95' lang='lat' dir='ltr'><strong>    </strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1253 1288 1493 1311; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 299 1311 1501 1788">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 299 1311 1501 1788">
+     <span class='ocr_line' id='line_1_2' title="bbox 387 1311 1494 1492; baseline 0.039 -43"><span class='ocrx_word' id='word_1_3' title='bbox 387 1442 390 1449; x_wconf 78' lang='grc'><strong><em>,</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 432 1420 447 1459; x_wconf 75' lang='lat'><strong>·.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 467 1342 477 1352; x_wconf 34' lang='lat'>⁵</span> <span class='ocrx_word' id='word_1_6' title='bbox 496 1339 671 1475; x_wconf 51' lang='grc' dir='ltr'><strong>ᾗῇ)</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 692 1377 833 1475; x_wconf 59' lang='lat' dir='ltr'><strong>{it</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 853 1381 1063 1467; x_wconf 54' lang='lat' dir='ltr'><strong>izi-{³¹¹</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1082 1311 1236 1466; x_wconf 43' lang='grc' dir='ltr'><strong>’ἐνὶ</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1272 1380 1283 1403; x_wconf 75' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1412 1365 1494 1492; x_wconf 36' lang='grc' dir='ltr'><strong>’Ἴ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 299 1616 1501 1788; baseline 0.027 -95"><span class='ocrx_word' id='word_1_12' title='bbox 299 1616 780 1788; x_wconf 43' lang='lat' dir='ltr'><strong>{emh-qm</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 750 1636 754 1641; x_wconf 83' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 796 1652 895 1724; x_wconf 51' lang='lat' dir='ltr'><strong>aa„</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 919 1623 1158 1718; x_wconf 56' lang='lat' dir='ltr'><strong>taff-‘odda</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1185 1621 1501 1717; x_wconf 51' lang='lat' dir='ltr'><strong>&amp;brt-*¹¹⁵¹*</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 304 1707 1481 1837">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 304 1707 1481 1837">
+     <span class='ocr_line' id='line_1_4' title="bbox 304 1707 1481 1837; baseline -0.007 -9"><span class='ocrx_word' id='word_1_17' title='bbox 304 1776 513 1836; x_wconf 62' lang='lat' dir='ltr'>numen</span> <span class='ocrx_word' id='word_1_18' title='bbox 540 1707 1481 1837; x_wconf 37' lang='lat' dir='ltr'><strong>fflassffssffindffiz</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
